@@ -1,1 +1,1 @@
-# welcome to ANkush singh this is my first website
+# To show news website
