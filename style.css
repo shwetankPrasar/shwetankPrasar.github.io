@@ -1,22 +1,16 @@
+/* Reset some default styles */
+body, h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Add your custom styles here */
 body {
-  font-family: sans-serif;
+    font-family: Arial, sans-serif;
 }
 
-h1 {
-  text-align: center;
-}
+/* Define styles for header, sections, etc. */
 
-img {
-  display: block;
-  margin: 0 auto;
-}
+/* Customize your navigation, hero, about, portfolio, and contact sections */
 
-ul {
-  list-style: none;
-  padding: 0;
-}
-
-li {
-  display: inline-block;
-  padding: 0 10px;
-}
+/* Add responsive styles for different screen sizes */
