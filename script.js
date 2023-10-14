@@ -1,7 +1,7 @@
 // Typing home Screen function
 
 var typed = new Typed(".text", {
-    strings: ["Data Science", "Web Developer", "Java Developer"],
+    strings: ["Data Scientist", "Web Developer", "Java Developer"],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
