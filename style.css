@@ -400,7 +400,7 @@ section {
     left: 0;
     width: 0;
     height: 100%;
-    background: #051018;
+    background:linear-gradient(45deg, rgb(66, 34, 195) 0%, rgba(45,227,253,0.691841702501313) 100%);
     z-index: -1;
     transition: .5s;
 }
