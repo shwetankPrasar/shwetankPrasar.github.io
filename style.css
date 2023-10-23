@@ -286,6 +286,7 @@ section {
 .about-content p {
     font-size: var(--p-font);
     margin: 32px 0 48px;
+    text-align: justify;
 }
 
 /* Services Section */
