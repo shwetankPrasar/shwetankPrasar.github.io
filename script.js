@@ -2,8 +2,8 @@
 
 var typed = new Typed(".text", {
     strings: ["Data Scientist", "Web Developer", "Java Developer"],
-    typeSpeed: 100,
-    backSpeed: 100,
+    typeSpeed: 200,
+    backSpeed: 200,
     backDelay: 1000,
     loop: true
 });
