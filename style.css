@@ -72,9 +72,9 @@ header {
     color: var(--main-color);
 }
 
-.nav-bar a.active {
+/* .nav-bar a.active {
     color: var(--main-color);
-}
+} */
 
 .menu-btn {
     background: linear-gradient(130.08deg, #383528 0% #191919 100%);
